@@ -1,6 +1,6 @@
 <!-- Waving banner with name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=230&section=header&text=Anushreya%20Tomar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20RAG%20%7C%20LLMs%20%7C%20Cloud&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Anushreya%20Tomar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <h2 align="center">
