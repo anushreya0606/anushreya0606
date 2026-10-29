@@ -1,34 +1,50 @@
-<!-- Header banner -->
+<!-- Waving banner with name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi,%20I'm%20Anushreya&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20RAG%20%7C%20LLMs&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=230&section=header&text=Anushreya%20Tomar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20RAG%20%7C%20LLMs%20%7C%20Cloud&descAlignY=58&descSize=18" />
 </p>
+
+<h2 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" />
+</h2>
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/anushreya0606">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=B15CFF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Building+RAG+systems+with+LLMs+%F0%9F%93%9A;ML+for+Healthcare+%26+Finance+%F0%9F%A9%BA%F0%9F%93%88;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=B15CFF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+Graphic+Era;Building+RAG+systems+with+LLMs;Deepfake+detection+with+PyTorch;FastAPI+%2B+AWS+for+private+LLM+inference" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushreya-tomar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anushreyatomar5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=About+Me" />
 
-- 🎓 <!-- EDIT: e.g. B.Tech CSE student at ____ -->
-- 🔭 Currently building **Retrieval-Augmented Generation (RAG)** systems that let you chat with your documents
-- 🧠 Interested in **applied ML** for healthcare and finance
-- 🌱 Learning: <!-- EDIT: e.g. LLM evaluation, vector databases, MLOps -->
-- 💬 Ask me about: Python, ML models, LLM apps
-- 📫 Reach me: <!-- EDIT: email / LinkedIn -->
+- 🎓 B.Tech CSE (AI & ML) at **Graphic Era Deemed to be University**, Dehradun (2024–2028)
+- 💼 Software Engineering Intern at **Route Mobile Limited** (Jun–Jul 2026)
+- 🔭 Working on RAG systems, LLM deployment, and computer vision
+- 🏆 Qualified for the Smart India Hackathon (SIH) internal round
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=Experience" />
+
+**Software Engineering Intern · Route Mobile Limited** (Remote, Jun–Jul 2026)
+- Evaluated Mistral, Llama, and Qwen for a *Secure GenAI Assistant for Workspace* on performance, resource needs, and privacy
+- Built a FastAPI inference gateway with API-key auth and rate limiting, deployed on AWS (EC2, VPC, ALB, Redis) for private Mistral inference
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=Tech+Stack" />
 
-<!-- EDIT: keep only what you've actually used. Full icon list: https://skillicons.dev -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sklearn,pytorch,git,github,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,pytorch,tensorflow,sklearn,opencv&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,postgres,supabase,redis&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github&perline=8" />
 </p>
+
+<p align="center"><sub>Also: LangGraph · Ollama · Gemini · RAG · REST APIs · WebSockets</sub></p>
 
 ---
 
@@ -36,13 +52,20 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🩺 [Maternal & Fetal Health Risk Predictor](https://github.com/anushreya0606/Maternal-and-Fetal-Health-Risk-Predictor) | Predicts maternal health risk level from medical indicators (BP, age, blood glucose) | Python, scikit-learn |
-| 📚 [RAG-Powered Knowledge Base](https://github.com/anushreya0606/RAG-Powered-Knowledge-Base) | Upload a batch of PDFs and chat with them using a local LLM | Python, LLMs, RAG |
-| 🏦 [RAG Internal Knowledge Assistant](https://github.com/anushreya0606/Rag-based-internal-knowledge-assistant) | Q&A over regulatory and compliance policy documents using Claude | JavaScript, Claude API |
-| 📈 [Sentiment-Based Stock Prediction](https://github.com/anushreya0606/Sentiment-Based-Stock-Prediction) | Predicts market moves from news sentiment | Python, NLP |
-| 🔍 [Deep-Trace](https://github.com/DivyanshiSingh07-hub/Deep-Trace) | <!-- EDIT: one-line description + your role --> | HTML |
+| 🔍 [DeepTrace](https://github.com/DivyanshiSingh07-hub/Deep-Trace) | Deepfake detection for images and videos using EfficientNet-B0 and frame-level analysis | PyTorch, OpenCV |
+| 🏦 [RAG Internal Knowledge Assistant](https://github.com/anushreya0606/Rag-based-internal-knowledge-assistant) | Context-grounded answers from internal policy documents | React, RAG, Vercel |
+| 📚 [RAG-Powered Knowledge Base](https://github.com/anushreya0606/RAG-Powered-Knowledge-Base) | Chat with a batch of PDFs using a local LLM | Python, LLMs |
+| 📈 [Sentiment-Based Stock Prediction](https://github.com/anushreya0606/Sentiment-Based-Stock-Prediction) | Classifies stock movements from news sentiment + historical data | Python, NLP, Logistic Regression |
+| 🩺 [Maternal & Fetal Health Risk Predictor](https://github.com/anushreya0606/Maternal-and-Fetal-Health-Risk-Predictor) | Predicts maternal health risk from BP, age, blood glucose | Python, scikit-learn |
 
-<!-- TIP: add one result per project, e.g. "F1 = 0.87 on held-out set" or "answers grounded with citations" -->
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=Certifications" />
+
+![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud_Quest:_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS GenAI](https://img.shields.io/badge/AWS-Intro_to_Generative_AI-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude Academy](https://img.shields.io/badge/Anthropic-AI_Fluency-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -51,14 +74,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anushreya0606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushreya0606&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushreya0606&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushreya0606&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
