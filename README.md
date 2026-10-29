@@ -71,16 +71,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=GitHub+Stats" />
 
+<!-- Generated daily by .github/workflows/profile.yml -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anushreya0606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushreya0606&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="46%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="46%" />
 </p>
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=B15CFF&vCenter=true&width=400&lines=Contribution+Snake" />
 
-<!-- Needs the GitHub Action in .github/workflows/snake.yml -->
+<!-- Needs the GitHub Action in .github/workflows/profile.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushreya0606/anushreya0606/output/github-snake-dark.svg" />
